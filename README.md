@@ -69,7 +69,7 @@ LiteTracker also performs competitively on natural scenes benchmarks. Latency va
     <td>TrackOn (48)</td>
     <td>65.0</td><td>78.0</td><td>90.8</td>
     <td>71.4</td><td>85.2</td><td>91.7</td>
-    <td>53.9</td><td>67.3/td><td>87.8</td>
+    <td>53.9</td><td>67.3</td><td>87.8</td>
     <td>63.5</td><td>76.4</td><td>89.4</td>
     <td>-</td><td>73.6</td><td>-</td>
     <td>74.80</td>
